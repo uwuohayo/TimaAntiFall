@@ -1,0 +1,30 @@
+#████████╗██╗███╗░░░███╗░█████╗░░█████╗░███╗░░██╗████████╗██╗███████╗░█████╗░██╗░░░░░██╗░░░░░
+#╚══██╔══╝██║████╗░████║██╔══██╗██╔══██╗████╗░██║╚══██╔══╝██║██╔════╝██╔══██╗██║░░░░░██║░░░░░
+#░░░██║░░░██║██╔████╔██║███████║███████║██╔██╗██║░░░██║░░░██║█████╗░░███████║██║░░░░░██║░░░░░
+#░░░██║░░░██║██║╚██╔╝██║██╔══██║██╔══██║██║╚████║░░░██║░░░██║██╔══╝░░██╔══██║██║░░░░░██║░░░░░
+#░░░██║░░░██║██║░╚═╝░██║██║░░██║██║░░██║██║░╚███║░░░██║░░░██║██║░░░░░██║░░██║███████╗███████╗
+#░░░╚═╝░░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝░░░╚═╝░░░╚═╝╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚══════╝
+#
+#plugin by Timur Rootkovskiy (Adminov)
+#vk - @timurroot
+#
+#
+# !!! the player will be teleported to /setworldspawn.
+# !!! This means that in order for the plugin to work correctly - you need to register on the spawn point in the lobby /setworldpsawn.
+#
+#
+FALL_MESSAGE: "&cНе надо падать! :)"
+#on or off message
+ENABLE_FALL_MESSAGE: true
+#
+TITLE: "&eДевочки! Вы упали..."
+#on or off title
+ENABLE_TITLE: true
+#
+#here you need to specify the name of the world in which the anti-fall function will work
+WORLD: "world"
+#
+#the minimum value of the block along the Y axis, after which the player is teleported to spawn
+MIN_Y: -1
+#
+#thanks for use my plugin <3

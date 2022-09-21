@@ -1,0 +1,6 @@
+name: TimaAntiFall
+version: '${project.version}'
+main: ovh.rootkovskiy.timaantifall.Main
+authors: [ timurroot ]
+description: Simple plugin for lobby anti fall
+website: www.rootkovskiy.ovh
